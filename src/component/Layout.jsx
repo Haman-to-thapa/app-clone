@@ -1,7 +1,7 @@
-import React from 'react'
-import Sidebar from '../pages/sidebar'
+
+import Sidebar from '../pages/Sidebar.jsx'
 import { Outlet } from 'react-router-dom'
-import Footer from '../pages/Footer'
+
 
 const Layout = () => {
   return (
